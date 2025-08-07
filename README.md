@@ -1,4 +1,4 @@
-# **Countdown Carnage**
+# **Drone Apocalypse**
 
 *A Timed FPS Shooter | Developed in Unreal Engine 5*
 
@@ -6,7 +6,7 @@
 
 ## **Overview**
 
-*Countdown Carnage* is a fast-paced first-person shooter where players battle waves of flying drones in a dark, dystopian city. The game features a dynamic combat system, intelligent drone AI, and timed gameplay mechanics where every kill extends the countdown timer. Developed entirely in Unreal Engine 5 using Blueprints, this project showcases my proficiency in AI programming, combat mechanics, and user interface design.
+*Drone Apocalypse* is a fast-paced first-person shooter where players battle waves of flying drones in a dark, dystopian city. The game features a dynamic combat system, intelligent drone AI, and timed gameplay mechanics where every kill extends the countdown timer. Developed entirely in Unreal Engine 5 using Blueprints, this project showcases my proficiency in AI programming, combat mechanics, and user interface design.
 
 ---
 
@@ -51,7 +51,7 @@ High-quality particle effects and sound design make every shot and explosion fee
 
 ## **Gameplay Video**  
 
-Watch the gameplay video on YouTube to see [Countdown Carnage Gameplay](https://youtu.be/ouyf6i2yRZs) in action
+Watch the gameplay video on YouTube to see [Drone Apocalypse Gameplay]([https://youtu.be/ouyf6i2yRZs](https://drive.google.com/file/d/1tiYnSbWGi72IcJXuJsB4keV7pGWQBdaj/view?usp=drive_link)) in action
 
 ---
 
@@ -60,7 +60,7 @@ Watch the gameplay video on YouTube to see [Countdown Carnage Gameplay](https://
 1. Clone the repository to your local machine.  
 
     ```bash
-        git clone https://github.com/Mecha-NOX/Countdown-Carnage.git
+       https://github.com/Gaur-95/drone-apocalypse-FPS-Shooter-.git
     ```
 
 2. Open the project in Unreal Engine 5.3.  
@@ -69,19 +69,14 @@ Watch the gameplay video on YouTube to see [Countdown Carnage Gameplay](https://
 
 ---
 
-## **Acknowledgments**
 
-Special thanks to the **GameDev.tv Team** and **Stephen Ulibarri** for their course, *"Unreal Engine 5 Blueprints: First Person Shooter (FPS),"* which served as the foundation for this project.
-
----
 
 ## **Contact**
 
 For questions or collaboration, feel free to reach out:
 
-- **Portfolio:** [https://kartik-chaturvedi.netlify.app](https://kartik-chaturvedi.netlify.app)  
-- **Email:** <kartik.chaturvedi.dev@gmail.com>  
-- **LinkedIn:** [https://linkedin.com/in/kartikchat](https://linkedin.com/in/kartikchat)
+- **Email:** <gaurpratyush95@gmail.com>  
+- **LinkedIn:** [https://www.linkedin.com/in/pratyush-g-62b166219/]
 
 ---
 
